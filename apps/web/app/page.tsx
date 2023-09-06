@@ -1,10 +1,10 @@
-import { Button } from "@ui/components/button";
+import { Button } from "@vital/ui/components/button";
 
 export default function Page() {
   return (
     <>
       <h1>Web</h1>
-      <Button>Click me</Button>
+      <Button variant="destructive" >Click me</Button>
     </>
   );
 }
