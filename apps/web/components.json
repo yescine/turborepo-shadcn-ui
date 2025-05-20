@@ -15,6 +15,6 @@
     "hooks": "@/hooks",
     "lib": "@/lib",
     "utils": "@vital/ui/lib/utils",
-    "ui": "@vital/ui/components"
+    "ui": "@vital/ui/components/ui"
   }
 }
