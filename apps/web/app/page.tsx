@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <>
       <h1>Web</h1>
-      <Button variant="destructive" >Click me</Button>
+      <Button variant="outline" >Click me</Button>
     </>
   );
 }
