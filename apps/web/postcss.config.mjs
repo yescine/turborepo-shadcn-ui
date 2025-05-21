@@ -1,0 +1,1 @@
+export { default } from "@vital/ui/postcss.config";
